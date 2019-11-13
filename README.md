@@ -1,4 +1,8 @@
 # Resistance_interne
+ATTENTION  le fichier Schema.pdf est mauvais .les transistors sont des NPN et non des PNP
+Voir plutôt schema_OK.pdf qui est corrigé.
+Les BC237 peuvent être remplacés par des 2N2222 ou 2N7000 ou n'importe quel petit NPN standard.
+
 mesure de la résistance interne d'un élément Ni_Mh et/ou Li-Ion
 
 L'affichage est un 128X128 LCD couleur avec un circuit ILI9163.
